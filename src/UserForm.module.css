@@ -1,0 +1,23 @@
+.form-container {
+    padding: 20px;
+    background-color: #f2f2f2;
+  }
+  
+  .form-container input {
+    margin-bottom: 10px;
+    padding: 5px;
+    width: 100%;
+  }
+  
+  .form-container button {
+    background-color: #4caf50;
+    color: #fff;
+    padding: 5px 10px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .form-container button:hover {
+    background-color: #45a049;
+  }
+  
